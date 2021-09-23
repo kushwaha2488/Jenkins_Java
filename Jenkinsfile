@@ -26,6 +26,6 @@ pipeline {
                   steps {
                         echo "Deploying in Master server"
             }
-
+}
       }
 }
